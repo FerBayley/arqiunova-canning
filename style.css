@@ -1,0 +1,11 @@
+/*
+Theme Name: Arquiniova Color
+Description: Sitio creado en exclusivo para Arquinova Color de Mariano y Mariana Perez
+Author: Arquinova
+Author URI: http://www.dospuntoclick.com.ar
+Version: 1.0.0
+*/
+
+@import url('../arquinova/css/normalize.css');
+@import url('../arquinova/css/estilos.css');
+@import url('../arquinova/css/responsivemobilemenu.css');
